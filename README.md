@@ -4,6 +4,8 @@
 
 Ensure your terminal app has Full Disk Access enabled in **System Preferences > Security & Privacy > Privacy > Full Disk Access**
 
+Then run the included script:
+
 ```bash
 ./setup_native_nfs_docker_macos
 ```
